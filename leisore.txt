@@ -1,2 +1,4 @@
 I am leisore.
 
+I am a newbie in git.
+
