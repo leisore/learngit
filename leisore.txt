@@ -12,3 +12,6 @@ This a change occured in master/b1.
 
 test git stash command.
 
+master edit.
+
+
